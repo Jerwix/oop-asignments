@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e84d7d61-a63c-434a-a752-1035b9cbce4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/checkstyle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test01_create.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test02_delete.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test03_one_time_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test04_funds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test05_money_flow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test06_non_existing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test07_send_money_part1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test08_send_money_part2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test09_print_transactions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test10_errors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test11_card_status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test12_continuous_payments.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test13_savings_account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test14_split_payments.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test15_every_payment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test16_report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test17_spendings_report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test18_large_input_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test19_large_input_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/result/out_test20_large_input_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/bankData/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/bankData/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/bankData/Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/bankData/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/AddAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/AddFunds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/CheckCardStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/CommandFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/CreateCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/CreateOneTimeCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/DeleteAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/DeleteCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/PayOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/PrintTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/PrintUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/SendMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/SetAlias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/SetMinimumBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/commands/SplitPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/checkstyle-10.20.1-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/checkstyle.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/bankData/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/bankData/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/bankData/Exchange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/bankData/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/checker/Checker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/checker/CheckerConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/checker/Checkstyle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/checker/DoubleDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/AddAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/AddFunds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/CheckCardStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/CommandFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/CreateCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/CreateOneTimeCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/DeleteAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/DeleteCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/PayOnline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/PrintTransactions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/PrintUsers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/SendMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/SetAlias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/SetMinimumBalance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/commands/SplitPayment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/fileio/CommandInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/fileio/CommerciantInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/fileio/ExchangeInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/fileio/ObjectInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/fileio/UserInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/main/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/org/poo/utils/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/target/classes/poo_checks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oop-asignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oop-asignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/fileio/ExchangeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/fileio/ExchangeInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/teme/J-POO-Morgan-Proiect-1/src/main/java/org/poo/main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jerwix&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jerwix/oop-asignments&quot;,
+    &quot;accountId&quot;: &quot;824995e6-048f-4d6e-8747-ea3d4b19c3bf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qztOy5jzwmW4swdNV5TLcUkkZW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;solution&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84d7d61-a63c-434a-a752-1035b9cbce4a" name="Changes" comment="" />
+      <created>1735677203060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735677203060</updated>
+      <workItem from="1735677204099" duration="66000" />
+      <workItem from="1735677353344" duration="62000" />
+      <workItem from="1735677418281" duration="69000" />
+      <workItem from="1735677491758" duration="295000" />
+      <workItem from="1735677791294" duration="21000" />
+      <workItem from="1735677819094" duration="222000" />
+      <workItem from="1735678067631" duration="200000" />
+      <workItem from="1735678294981" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
